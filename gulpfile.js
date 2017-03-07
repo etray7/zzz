@@ -73,3 +73,4 @@ gulp.task('watch', function() {
     gulp.watch("./public/css/*.css", ['css']);
     gulp.watch("./public/js/*.js", ['js']);
 });
+// lol,azazazaz
